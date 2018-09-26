@@ -1,0 +1,27 @@
+#only{
+	background-color: red;
+}
+.demo{
+	background-color: yellow;
+}
+.demo1{
+	color: #f40
+}
+span{
+	background-color: blue;
+	color: #f40
+}
+/**{
+	background-color: black;
+}*/
+
+
+
+css权重
+
+！important 			无穷
+ 行间样式 			1000
+ id 				100
+ class | 属性 | 伪类 10
+ 标签选择器 | 伪元素	 1
+ 通配符				 0
